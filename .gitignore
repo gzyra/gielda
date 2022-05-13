@@ -1,2 +1,6 @@
 selenium/*
 *.log
+bin/*
+lib/*
+geckodriver.log
+pyvenv.cfg
